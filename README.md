@@ -1,5 +1,5 @@
 # RHYTHM MUSIC BOT
-ʜᴇʟʟᴏ,ɪ ᴀᴍ "ʀʜʏᴛʜᴍ" sᴜᴘᴇʀ ғᴀsᴛ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs...        ★ᴄʀᴇᴀᴛᴇᴅ ʙʏ★              [SOCIAL MECHANIC](https://t.me/social_mechanic_1997)
+ʜᴇʟʟᴏ,ɪ ᴀᴍ "ʀʜʏᴛʜᴍ" sᴜᴘᴇʀ ғᴀsᴛ ᴍᴜsɪᴄ ᴘʟᴀʏᴇʀ ʙᴏᴛ ғᴏʀ ᴛᴇʟᴇɢʀᴀᴍ ɢʀᴏᴜᴘs...        ★ᴄʀᴇᴀᴛᴇᴅ ʙʏ★              [SOCIAL MECHANIC](https://t.me/ONLY_AJAY)
 
 ### RHYTHM 𝐌𝐮𝐬𝐢𝐜 𝐁𝐨𝐭 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
@@ -8,7 +8,7 @@
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ
-<a href="https://t.me/tamil_chat_group_1"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/TECHNOLOGY_CORNER_1"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Tamil_FriendshipGroup"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/Yuvanplaylist"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 ### ᴄᴏᴍᴍᴀɴᴅs 🛠
@@ -40,4 +40,4 @@ to get pyrogram string session
 ᴄʜᴇᴄᴋ ᴍʏ ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ ᴀɴᴅ ғᴏʟʟᴏᴡ ᴍᴇ 
 - [𝙎𝙊𝘾𝙄𝘼𝙇 𝙈𝙀𝘾𝙃𝘼𝙉𝙄𝘾](https://github.com/SOCIAL-MECHANIC-1997) 👈🏼
 - [𝘿𝙀𝙈𝙊 𝘽𝙊𝙏](https://t.me/social_mechanic_music_bot) 👈🏼
-- [𝙈𝘼𝙄𝙉𝙏𝙀𝙉𝘼𝙉𝘾𝙀](https://t.me/eye_black_lover) 👈🏼
+- [𝙈𝘼𝙄𝙉𝙏𝙀𝙉𝘼𝙉𝘾𝙀](https://t.me/ONLY_AJAY) 👈🏼
